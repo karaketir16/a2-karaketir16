@@ -54,8 +54,7 @@ with open("a2_input.csv") as input_file:
 #print(type(conc),type(contents[1][0]*3),type(averageIn2001))
 #help(conc)
 #help(averageIn2001)
-html = """
-<!DOCTYPE html>
+html = """<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8"/>
